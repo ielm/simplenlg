@@ -56,7 +56,7 @@
         <category>adverb</category>
         <id>E0006547</id>
         <intensifier/>
-        <verbModifier/>
+        <verb_modifier/>
     </word>
     <word>
         <base>about</base>
@@ -16532,7 +16532,6 @@
         <base>immune</base>
         <category>adjective</category>
         <id>E0033536</id>
-        <colour/>
         <predicative/>
         <qualitative/>
     </word>
@@ -36674,6 +36673,7 @@
         <base>weigh</base>
         <category>verb</category>
         <id>E0065207</id>
+        <present3s>weighs</present3s>
         <transitive/>
     </word>
     <word>
